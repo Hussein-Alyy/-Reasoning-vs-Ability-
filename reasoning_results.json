@@ -1,0 +1,302 @@
+[
+  {
+    "text":"Great job guys! الطلب وصل بعد يومين والبيتزا كانت حجر، برافو فعلاً.",
+    "reasoning":"The phrases 'Great job guys!' and 'برافو فعلاً' (bravo indeed) are used sarcastically. The actual experience described is negative: 'الطلب وصل بعد يومين' (order arrived after two days - delay) and 'البيتزا كانت حجر' (the pizza was like a stone - poor quality). The sarcasm clearly indicates negative sentiment.",
+    "sentiment":"Negative"
+  },
+  {
+    "text":"The UI is elegant بس التجربة محبطة جداً inside the app.",
+    "reasoning":"There's a mixed sentiment. 'The UI is elegant' is positive, but 'بس التجربة محبطة جداً' (but the experience is very frustrating) is strongly negative. The frustration ('محبطة جداً') outweighs the positive aspect of the UI, leading to an overall negative experience.",
+    "sentiment":"Negative"
+  },
+  {
+    "text":"I love how you charge high prices والخدمة تحت الصفر، Keep it up!",
+    "reasoning":"This text is highly sarcastic. 'I love how' and 'Keep it up!' are ironic given the negative context: 'high prices' and 'الخدمة تحت الصفر' (service below zero, meaning terrible service). The intent is clearly critical.",
+    "sentiment":"Negative"
+  },
+  {
+    "text":"The camera is 10\/10 بس البطارية بتموت في ساعة، I'm confused.",
+    "reasoning":"Mixed sentiment. 'The camera is 10\/10' is very positive, but 'بس البطارية بتموت في ساعة' (but the battery dies in an hour) is a severe negative drawback. The 'I'm confused' reflects frustration with this conflicting performance. The critical battery issue makes the overall sentiment negative.",
+    "sentiment":"Negative"
+  },
+  {
+    "text":"Thanks for the 'fast' delivery اللي قعد أسبوع، بجد شكراً.",
+    "reasoning":"This is sarcastic. The word 'fast' is put in quotes, and the actual delivery time 'قعد أسبوع' (took a week) contradicts it. 'بجد شكراً' (really thanks) is also sarcastic, expressing annoyance at the delay.",
+    "sentiment":"Negative"
+  },
+  {
+    "text":"Amazing features but the subscription is a daylight robbery, حرام والله.",
+    "reasoning":"Mixed sentiment. 'Amazing features' is positive, but 'the subscription is a daylight robbery' and 'حرام والله' (truly unjust\/forbidden by God) are extremely strong negative statements about the pricing. The severe criticism of the cost dominates the positive features.",
+    "sentiment":"Negative"
+  },
+  {
+    "text":"The staff was friendly but the hotel was a nightmare, تجربة غريبة.",
+    "reasoning":"Mixed sentiment. 'The staff was friendly' is positive, but 'the hotel was a nightmare' is a very strong negative. 'تجربة غريبة' (a strange experience) further emphasizes the negative overall impression. The 'nightmare' aspect is dominant.",
+    "sentiment":"Negative"
+  },
+  {
+    "text":"Honestly, I expected more from a brand like this, خيبة أمل كبيرة.",
+    "reasoning":"The phrase 'expected more' implies disappointment, and 'خيبة أمل كبيرة' (a big disappointment) explicitly states a strong negative emotion.",
+    "sentiment":"Negative"
+  },
+  {
+    "text":"The update fixed one bug and created ten more, عاش يا وحوش.",
+    "reasoning":"This is sarcastic. While 'fixed one bug' is a minor positive, 'created ten more' is a significant negative. 'عاش يا وحوش' (long live you beasts) is sarcastic praise for a disastrous outcome, indicating frustration.",
+    "sentiment":"Negative"
+  },
+  {
+    "text":"Brilliant concept, poorly executed, التنفيذ محتاج إعادة نظر تماماً.",
+    "reasoning":"Mixed sentiment. 'Brilliant concept' is positive, but 'poorly executed' and 'التنفيذ محتاج إعادة نظر تماماً' (the execution needs complete reconsideration) are strong negatives. The poor execution is the dominant factor.",
+    "sentiment":"Negative"
+  },
+  {
+    "text":"Service was okay-ish, بس مش القيمة اللي كنت مستنيها for my money.",
+    "reasoning":"'Okay-ish' is neutral to slightly negative. The phrase 'مش القيمة اللي كنت مستنيها for my money' (not the value I was expecting for my money) clearly expresses disappointment and a negative perception of value.",
+    "sentiment":"Negative"
+  },
+  {
+    "text":"I really like the design, but the material feels cheap, حاجة تحزن.",
+    "reasoning":"Mixed sentiment. 'I really like the design' is positive, but 'the material feels cheap' is negative, and 'حاجة تحزن' (something sad\/disappointing) reinforces the negative feeling about the quality.",
+    "sentiment":"Negative"
+  },
+  {
+    "text":"The app is smooth as butter بس بيسحب بطارية بشكل غبي.",
+    "reasoning":"Mixed sentiment. 'Smooth as butter' is very positive for performance, but 'بس بيسحب بطارية بشكل غبي' (but it drains battery stupidly\/excessively) is a significant negative drawback. The severe battery drain makes the overall sentiment negative.",
+    "sentiment":"Negative"
+  },
+  {
+    "text":"Quality is fine, but shipping took forever, أخيراً وصل بالسلامة.",
+    "reasoning":"Mixed sentiment. 'Quality is fine' is neutral\/slightly positive, but 'shipping took forever' is a clear negative. 'أخيراً وصل بالسلامة' (finally arrived safely) expresses relief but also highlights the long delay. The negative shipping experience dominates.",
+    "sentiment":"Negative"
+  },
+  {
+    "text":"Not the best, not the worst, يعني شغال بس مش واو.",
+    "reasoning":"The phrases 'Not the best, not the worst' and 'يعني شغال' (it works) indicate mediocrity. 'بس مش واو' (but not wow) confirms it's not impressive. This points to a lack of strong positive or negative feelings.",
+    "sentiment":"Neutral"
+  },
+  {
+    "text":"The sound is crystal clear بس السماعات بتوجع الودن after 5 mins.",
+    "reasoning":"Mixed sentiment. 'The sound is crystal clear' is very positive, but 'بس السماعات بتوجع الودن after 5 mins' (but the headphones hurt the ears after 5 minutes) is a critical negative for usability. The discomfort makes the product impractical, leading to a negative overall sentiment.",
+    "sentiment":"Negative"
+  },
+  {
+    "text":"Interesting plot but the ending was a disaster, فيلم غريب جداً.",
+    "reasoning":"Mixed sentiment. 'Interesting plot' is positive, but 'the ending was a disaster' is a very strong negative. 'فيلم غريب جداً' (a very strange movie) further suggests a problematic experience. The disastrous ending dominates.",
+    "sentiment":"Negative"
+  },
+  {
+    "text":"Customer support was polite but useless, كلام دبلوماسي على الفاضي.",
+    "reasoning":"Mixed sentiment. 'Polite' is positive, but 'useless' is a strong negative. 'كلام دبلوماسي على الفاضي' (diplomatic talk for nothing) reinforces the idea of ineffectiveness. The lack of utility makes the overall sentiment negative.",
+    "sentiment":"Negative"
+  },
+  {
+    "text":"The packaging was fancy بس المنتج نفسه تعبان قوي، مظاهر بس.",
+    "reasoning":"Mixed sentiment. 'The packaging was fancy' is positive, but 'بس المنتج نفسه تعبان قوي' (but the product itself is very weak\/bad) is a strong negative. 'مظاهر بس' (just appearances) implies superficiality and disappointment with the core product.",
+    "sentiment":"Negative"
+  },
+  {
+    "text":"Way better than the previous version, التطور ده ملحوظ جداً.",
+    "reasoning":"The phrases 'Way better' and 'التطور ده ملحوظ جداً' (this development is very noticeable) both express strong positive comparison and satisfaction with improvement.",
+    "sentiment":"Positive"
+  },
+  {
+    "text":"I'm over the moon with this purchase!",
+    "reasoning":"The idiom 'over the moon' expresses extreme happiness and satisfaction.",
+    "sentiment":"Positive"
+  },
+  {
+    "text":"It cost an arm and a leg but it's worth every penny.",
+    "reasoning":"Mixed sentiment. 'It cost an arm and a leg' indicates it was very expensive (negative aspect), but 'it's worth every penny' strongly justifies the cost and expresses high satisfaction with the value received. The positive value outweighs the high price.",
+    "sentiment":"Positive"
+  },
+  {
+    "text":"The product is a mixed bag, to be honest.",
+    "reasoning":"The phrase 'mixed bag' explicitly states that there are both good and bad aspects, implying a balance without a clear leaning towards positive or negative.",
+    "sentiment":"Neutral"
+  },
+  {
+    "text":"I've seen better days with this brand.",
+    "reasoning":"The phrase 'I've seen better days' implies that the current situation or product quality from the brand is not good and has declined.",
+    "sentiment":"Negative"
+  },
+  {
+    "text":"This is definitely the last straw, I'm cancelling.",
+    "reasoning":"'The last straw' indicates the final point of tolerance for negative experiences, leading to a decisive negative action ('I'm cancelling').",
+    "sentiment":"Negative"
+  },
+  {
+    "text":"Hit or miss, depends on your luck with the seller.",
+    "reasoning":"'Hit or miss' implies inconsistency and unreliability, meaning the experience can be good or bad, making it uncertain and not consistently positive or negative.",
+    "sentiment":"Neutral"
+  },
+  {
+    "text":"A bit pricey, but you get what you pay for.",
+    "reasoning":"Mixed sentiment. 'A bit pricey' is a slight negative, but 'you get what you pay for' implies that the quality or value justifies the price, making the overall perception positive.",
+    "sentiment":"Positive"
+  },
+  {
+    "text":"It's not my cup of tea, but others might like it.",
+    "reasoning":"'It's not my cup of tea' expresses personal dislike (negative for the speaker), but 'others might like it' acknowledges that it could be positive for others, leading to a balanced, non-judgmental overall stance.",
+    "sentiment":"Neutral"
+  },
+  {
+    "text":"The software is buggy and keeps crashing.",
+    "reasoning":"The keywords 'buggy' and 'keeps crashing' are strong indicators of severe functional problems and a very negative user experience.",
+    "sentiment":"Negative"
+  },
+  {
+    "text":"Absolute game changer! Can't live without it now.",
+    "reasoning":"Both 'Absolute game changer!' and 'Can't live without it now' express extreme satisfaction and high praise for the product's impact.",
+    "sentiment":"Positive"
+  },
+  {
+    "text":"It's okay, but it doesn't live up to the hype.",
+    "reasoning":"'It's okay' is neutral, but 'it doesn't live up to the hype' indicates disappointment because expectations were not met, leading to an overall negative sentiment.",
+    "sentiment":"Negative"
+  },
+  {
+    "text":"Solid performance for a budget device.",
+    "reasoning":"'Solid performance' is positive, and the context 'for a budget device' enhances this positive sentiment, implying it performs exceptionally well given its price point.",
+    "sentiment":"Positive"
+  },
+  {
+    "text":"The instructions were clear as mud.",
+    "reasoning":"The idiom 'clear as mud' means completely unclear or confusing, which is a strong negative assessment of the instructions.",
+    "sentiment":"Negative"
+  },
+  {
+    "text":"Exceptional quality, I'm genuinely impressed.",
+    "reasoning":"Both 'Exceptional quality' and 'I'm genuinely impressed' are strong indicators of high satisfaction and positive experience.",
+    "sentiment":"Positive"
+  },
+  {
+    "text":"Avoid at all costs, worst decision ever.",
+    "reasoning":"'Avoid at all costs' is a very strong negative recommendation, and 'worst decision ever' expresses extreme regret and dissatisfaction.",
+    "sentiment":"Negative"
+  },
+  {
+    "text":"It does the job, but it's nothing to write home about.",
+    "reasoning":"'It does the job' is neutral, indicating functionality. However, 'nothing to write home about' implies it's not impressive or remarkable, leaning towards a mediocre or slightly negative perception.",
+    "sentiment":"Neutral"
+  },
+  {
+    "text":"Top-notch materials and very durable.",
+    "reasoning":"Both 'Top-notch materials' and 'very durable' are strong positive attributes, indicating high quality and longevity.",
+    "sentiment":"Positive"
+  },
+  {
+    "text":"The interface is a bit cluttered for my taste.",
+    "reasoning":"'A bit cluttered' indicates a negative user experience due to poor design or organization, specifically for the speaker's preference.",
+    "sentiment":"Negative"
+  },
+  {
+    "text":"Seamless integration with all my devices.",
+    "reasoning":"'Seamless integration' is a strong positive, indicating ease of use and high compatibility.",
+    "sentiment":"Positive"
+  },
+  {
+    "text":"Underwhelming experience given the price tag.",
+    "reasoning":"'Underwhelming experience' is negative, and the context 'given the price tag' amplifies this negativity, implying that the product did not meet expectations relative to its cost.",
+    "sentiment":"Negative"
+  },
+  {
+    "text":"يا فرحة ما تمت، الموبايل باظ بعد يومين استلام.",
+    "reasoning":"The phrase 'يا فرحة ما تمت' (joy that wasn't completed) expresses deep disappointment. 'الموبايل باظ بعد يومين استلام' (the mobile broke after two days of receipt) describes a critical failure, leading to a strong negative sentiment.",
+    "sentiment":"Negative"
+  },
+  {
+    "text":"الخدمة زي الفل.. ده لو أنت بتحب التعطيل والانتظار طبعاً.",
+    "reasoning":"This is sarcastic. 'الخدمة زي الفل' (the service is perfect) is immediately contradicted by the sarcastic condition 'ده لو أنت بتحب التعطيل والانتظار طبعاً' (that's if you like delays and waiting, of course), indicating terrible service.",
+    "sentiment":"Negative"
+  },
+  {
+    "text":"تسلم إيدكم، الأكل يرم العضم والخدمة سريعة جداً.",
+    "reasoning":"'تسلم إيدكم' (bless your hands) is a positive expression of gratitude. 'الأكل يرم العضم' (the food is very satisfying\/filling) and 'الخدمة سريعة جداً' (the service is very fast) are both strong positive descriptions.",
+    "sentiment":"Positive"
+  },
+  {
+    "text":"إيه الحلاوة دي؟ نص ساعة عشان أطلب كوباية مية؟",
+    "reasoning":"This is sarcastic. 'إيه الحلاوة دي؟' (What is this beauty\/sweetness?) is a rhetorical question used ironically to express frustration and disbelief at the negative situation: 'نص ساعة عشان أطلب كوباية مية؟' (half an hour to order a glass of water?).",
+    "sentiment":"Negative"
+  },
+  {
+    "text":"المكان رايق وهادي بس الأسعار بتلسع.",
+    "reasoning":"Mixed sentiment. 'المكان رايق وهادي' (the place is calm and quiet) is positive, but 'بس الأسعار بتلسع' (but the prices sting\/are very high) is a significant negative drawback. The high prices make the overall experience negative.",
+    "sentiment":"Negative"
+  },
+  {
+    "text":"الشركة دي في ضياع، لا رد ولا اهتمام ولا أي حاجة.",
+    "reasoning":"'الشركة دي في ضياع' (this company is lost\/in chaos) is a strong negative assessment. 'لا رد ولا اهتمام ولا أي حاجة' (no response, no attention, nothing) further emphasizes the complete lack of service and care.",
+    "sentiment":"Negative"
+  },
+  {
+    "text":"من الآخر، ده أحسن استثمار عملته السنة دي.",
+    "reasoning":"'أحسن استثمار عملته السنة دي' (the best investment I made this year) is a very strong positive statement of satisfaction and value.",
+    "sentiment":"Positive"
+  },
+  {
+    "text":"الخامة تعبانة جداً، كأنها ورق مش قماش.",
+    "reasoning":"'الخامة تعبانة جداً' (the material is very weak\/bad) is a strong negative. 'كأنها ورق مش قماش' (as if it's paper, not fabric) is a vivid comparison highlighting extremely poor quality.",
+    "sentiment":"Negative"
+  },
+  {
+    "text":"مبهر فعلاً.. أول مرة أشوف منتج بيبوظ قبل ما يتفتح!",
+    "reasoning":"This is sarcastic. 'مبهر فعلاً' (truly impressive) is ironic given the extremely negative outcome: 'أول مرة أشوف منتج بيبوظ قبل ما يتفتح!' (first time I see a product break before it's even opened!).",
+    "sentiment":"Negative"
+  },
+  {
+    "text":"على وضعكم، جودة وسعر وأدب في التعامل.",
+    "reasoning":"'على وضعكم' (keep it up\/stay true to yourselves) is positive encouragement. 'جودة وسعر وأدب في التعامل' (quality, price, and politeness in dealing) lists three strong positive attributes.",
+    "sentiment":"Positive"
+  },
+  {
+    "text":"التوصيل سريع بس المندوب أسلوبه مش تمام.",
+    "reasoning":"Mixed sentiment. 'التوصيل سريع' (delivery is fast) is positive, but 'بس المندوب أسلوبه مش تمام' (but the delivery person's manner is not good) is a clear negative regarding customer interaction. The negative interaction detracts from the positive delivery speed.",
+    "sentiment":"Negative"
+  },
+  {
+    "text":"ما شاء الله، التغليف يفتح النفس والمنتج أصلي.",
+    "reasoning":"'ما شاء الله' (an expression of admiration) is positive. 'التغليف يفتح النفس' (the packaging is appealing\/inviting) and 'المنتج أصلي' (the product is original\/authentic) are both strong positive attributes.",
+    "sentiment":"Positive"
+  },
+  {
+    "text":"يا ريتني ما اشتريته، فلوس في الأرض.",
+    "reasoning":"'يا ريتني ما اشتريته' (I wish I hadn't bought it) expresses strong regret. 'فلوس في الأرض' (money in the ground\/wasted money) indicates a complete lack of value and significant financial loss, leading to a strong negative sentiment.",
+    "sentiment":"Negative"
+  },
+  {
+    "text":"الموقع شغال بمزاجه، ساعة يفتح وعشرة لا.",
+    "reasoning":"'الموقع شغال بمزاجه' (the website works as it pleases) implies unreliability and inconsistency. 'ساعة يفتح وعشرة لا' (one hour it opens, ten it doesn't) explicitly describes severe functional issues, leading to a strong negative sentiment.",
+    "sentiment":"Negative"
+  },
+  {
+    "text":"تجربة ممتازة من البداية للنهاية، شابوه.",
+    "reasoning":"'تجربة ممتازة' (excellent experience) is very positive. 'من البداية للنهاية' (from beginning to end) emphasizes consistent quality, and 'شابوه' (chapeau\/hats off) is an expression of high praise.",
+    "sentiment":"Positive"
+  },
+  {
+    "text":"الريحة تجنن والثبات عالي، يستاهل كل ريال.",
+    "reasoning":"'الريحة تجنن' (the scent is amazing) and 'الثبات عالي' (the longevity is high) are strong positive attributes. 'يستاهل كل ريال' (it's worth every riyal) confirms excellent value.",
+    "sentiment":"Positive"
+  },
+  {
+    "text":"هو ده اللي بنقول عليه شغل فاخر من الآخر.",
+    "reasoning":"'شغل فاخر من الآخر' (luxury work from start to finish\/ultimately) is a strong expression of high quality and excellence.",
+    "sentiment":"Positive"
+  },
+  {
+    "text":"فين المصداقية؟ اللبس غير اللي في الصور خالص.",
+    "reasoning":"'فين المصداقية؟' (Where is the credibility?) is a rhetorical question implying a complete lack of it. 'اللبس غير اللي في الصور خالص' (the clothes are completely different from the pictures) indicates deception and severe disappointment, leading to a strong negative sentiment.",
+    "sentiment":"Negative"
+  },
+  {
+    "text":"ما أنصح أحد فيه، خلوكم على الماركات المعروفة أصرف.",
+    "reasoning":"'ما أنصح أحد فيه' (I don't recommend it to anyone) is a strong negative recommendation. 'خلوكم على الماركات المعروفة أصرف' (stick to known brands, it's better\/more worthwhile) reinforces the negative view by suggesting superior alternatives.",
+    "sentiment":"Negative"
+  },
+  {
+    "text":"والله ما قصرتوا، خدمة تبيض الوجه.",
+    "reasoning":"'والله ما قصرتوا' (By God, you didn't fall short\/you did your best) is a strong expression of appreciation and satisfaction. 'خدمة تبيض الوجه' (service that brightens the face\/is honorable) is a highly positive idiom for excellent service.",
+    "sentiment":"Positive"
+  }
+]

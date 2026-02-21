@@ -1,0 +1,242 @@
+[
+  {
+    "text":"Great job guys! الطلب وصل بعد يومين والبيتزا كانت حجر، برافو فعلاً.",
+    "sentiment":"Negative"
+  },
+  {
+    "text":"The UI is elegant بس التجربة محبطة جداً inside the app.",
+    "sentiment":"Negative"
+  },
+  {
+    "text":"I love how you charge high prices والخدمة تحت الصفر، Keep it up!",
+    "sentiment":"Negative"
+  },
+  {
+    "text":"The camera is 10\/10 بس البطارية بتموت في ساعة، I'm confused.",
+    "sentiment":"Negative"
+  },
+  {
+    "text":"Thanks for the 'fast' delivery اللي قعد أسبوع، بجد شكراً.",
+    "sentiment":"Negative"
+  },
+  {
+    "text":"Amazing features but the subscription is a daylight robbery, حرام والله.",
+    "sentiment":"Negative"
+  },
+  {
+    "text":"The staff was friendly but the hotel was a nightmare, تجربة غريبة.",
+    "sentiment":"Negative"
+  },
+  {
+    "text":"Honestly, I expected more from a brand like this, خيبة أمل كبيرة.",
+    "sentiment":"Negative"
+  },
+  {
+    "text":"The update fixed one bug and created ten more, عاش يا وحوش.",
+    "sentiment":"Negative"
+  },
+  {
+    "text":"Brilliant concept, poorly executed, التنفيذ محتاج إعادة نظر تماماً.",
+    "sentiment":"Negative"
+  },
+  {
+    "text":"Service was okay-ish, بس مش القيمة اللي كنت مستنيها for my money.",
+    "sentiment":"Negative"
+  },
+  {
+    "text":"I really like the design, but the material feels cheap, حاجة تحزن.",
+    "sentiment":"Negative"
+  },
+  {
+    "text":"The app is smooth as butter بس بيسحب بطارية بشكل غبي.",
+    "sentiment":"Negative"
+  },
+  {
+    "text":"Quality is fine, but shipping took forever, أخيراً وصل بالسلامة.",
+    "sentiment":"Negative"
+  },
+  {
+    "text":"Not the best, not the worst, يعني شغال بس مش واو.",
+    "sentiment":"Neutral"
+  },
+  {
+    "text":"The sound is crystal clear بس السماعات بتوجع الودن after 5 mins.",
+    "sentiment":"Negative"
+  },
+  {
+    "text":"Interesting plot but the ending was a disaster, فيلم غريب جداً.",
+    "sentiment":"Negative"
+  },
+  {
+    "text":"Customer support was polite but useless, كلام دبلوماسي على الفاضي.",
+    "sentiment":"Negative"
+  },
+  {
+    "text":"The packaging was fancy بس المنتج نفسه تعبان قوي، مظاهر بس.",
+    "sentiment":"Negative"
+  },
+  {
+    "text":"Way better than the previous version, التطور ده ملحوظ جداً.",
+    "sentiment":"Positive"
+  },
+  {
+    "text":"I'm over the moon with this purchase!",
+    "sentiment":"Positive"
+  },
+  {
+    "text":"It cost an arm and a leg but it's worth every penny.",
+    "sentiment":"Positive"
+  },
+  {
+    "text":"The product is a mixed bag, to be honest.",
+    "sentiment":"Neutral"
+  },
+  {
+    "text":"I've seen better days with this brand.",
+    "sentiment":"Negative"
+  },
+  {
+    "text":"This is definitely the last straw, I'm cancelling.",
+    "sentiment":"Negative"
+  },
+  {
+    "text":"Hit or miss, depends on your luck with the seller.",
+    "sentiment":"Neutral"
+  },
+  {
+    "text":"A bit pricey, but you get what you pay for.",
+    "sentiment":"Positive"
+  },
+  {
+    "text":"It's not my cup of tea, but others might like it.",
+    "sentiment":"Neutral"
+  },
+  {
+    "text":"The software is buggy and keeps crashing.",
+    "sentiment":"Negative"
+  },
+  {
+    "text":"Absolute game changer! Can't live without it now.",
+    "sentiment":"Positive"
+  },
+  {
+    "text":"It's okay, but it doesn't live up to the hype.",
+    "sentiment":"Negative"
+  },
+  {
+    "text":"Solid performance for a budget device.",
+    "sentiment":"Positive"
+  },
+  {
+    "text":"The instructions were clear as mud.",
+    "sentiment":"Negative"
+  },
+  {
+    "text":"Exceptional quality, I'm genuinely impressed.",
+    "sentiment":"Positive"
+  },
+  {
+    "text":"Avoid at all costs, worst decision ever.",
+    "sentiment":"Negative"
+  },
+  {
+    "text":"It does the job, but it's nothing to write home about.",
+    "sentiment":"Neutral"
+  },
+  {
+    "text":"Top-notch materials and very durable.",
+    "sentiment":"Positive"
+  },
+  {
+    "text":"The interface is a bit cluttered for my taste.",
+    "sentiment":"Negative"
+  },
+  {
+    "text":"Seamless integration with all my devices.",
+    "sentiment":"Positive"
+  },
+  {
+    "text":"Underwhelming experience given the price tag.",
+    "sentiment":"Negative"
+  },
+  {
+    "text":"يا فرحة ما تمت، الموبايل باظ بعد يومين استلام.",
+    "sentiment":"Negative"
+  },
+  {
+    "text":"الخدمة زي الفل.. ده لو أنت بتحب التعطيل والانتظار طبعاً.",
+    "sentiment":"Negative"
+  },
+  {
+    "text":"تسلم إيدكم، الأكل يرم العضم والخدمة سريعة جداً.",
+    "sentiment":"Positive"
+  },
+  {
+    "text":"إيه الحلاوة دي؟ نص ساعة عشان أطلب كوباية مية؟",
+    "sentiment":"Negative"
+  },
+  {
+    "text":"المكان رايق وهادي بس الأسعار بتلسع.",
+    "sentiment":"Negative"
+  },
+  {
+    "text":"الشركة دي في ضياع، لا رد ولا اهتمام ولا أي حاجة.",
+    "sentiment":"Negative"
+  },
+  {
+    "text":"من الآخر، ده أحسن استثمار عملته السنة دي.",
+    "sentiment":"Positive"
+  },
+  {
+    "text":"الخامة تعبانة جداً، كأنها ورق مش قماش.",
+    "sentiment":"Negative"
+  },
+  {
+    "text":"مبهر فعلاً.. أول مرة أشوف منتج بيبوظ قبل ما يتفتح!",
+    "sentiment":"Negative"
+  },
+  {
+    "text":"على وضعكم، جودة وسعر وأدب في التعامل.",
+    "sentiment":"Positive"
+  },
+  {
+    "text":"التوصيل سريع بس المندوب أسلوبه مش تمام.",
+    "sentiment":"Negative"
+  },
+  {
+    "text":"ما شاء الله، التغليف يفتح النفس والمنتج أصلي.",
+    "sentiment":"Positive"
+  },
+  {
+    "text":"يا ريتني ما اشتريته، فلوس في الأرض.",
+    "sentiment":"Negative"
+  },
+  {
+    "text":"الموقع شغال بمزاجه، ساعة يفتح وعشرة لا.",
+    "sentiment":"Negative"
+  },
+  {
+    "text":"تجربة ممتازة من البداية للنهاية، شابوه.",
+    "sentiment":"Positive"
+  },
+  {
+    "text":"الريحة تجنن والثبات عالي، يستاهل كل ريال.",
+    "sentiment":"Positive"
+  },
+  {
+    "text":"هو ده اللي بنقول عليه شغل فاخر من الآخر.",
+    "sentiment":"Positive"
+  },
+  {
+    "text":"فين المصداقية؟ اللبس غير اللي في الصور خالص.",
+    "sentiment":"Negative"
+  },
+  {
+    "text":"ما أنصح أحد فيه، خلوكم على الماركات المعروفة أصرف.",
+    "sentiment":"Negative"
+  },
+  {
+    "text":"والله ما قصرتوا، خدمة تبيض الوجه.",
+    "sentiment":"Positive"
+  }
+]
